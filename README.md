@@ -1,6 +1,6 @@
 CODE THE DREAM: Final Project Scope
 
-Project: mixit
+Project: MixIT
 
 Description(Scope): A music entry and song shuffling web application that allows the user to enter new songs, search songs, and shuffle songs to pick music to play on a musical instrument.
 
